@@ -1,0 +1,6 @@
+{
+  "name": "Serena - Aerial Silks Portfolio",
+  "description": "An immersive digital performance showcasing Serena, a world-class professional aerial silks athlete and artist. Elegant, high-performance, fluid storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
